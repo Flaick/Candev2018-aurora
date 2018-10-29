@@ -19,8 +19,8 @@ Structure of training data:
 class2          
 >candev_data_2_0         
 >>data1.png           
->>data2.png       
->candev_data_2_1        
+>>data2.png
+candev_data_2_1        
 
              
 class6     
