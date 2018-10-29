@@ -1,5 +1,7 @@
 # Candev2018-aurora
-Candev Contest 2018. Classification model.         
+## This project mainly want to recongize the type of aurora shown in picture automatically by machine!
+## Dataset: https://open.canada.ca/data/en/dataset/d700c863-8622-4ec2-a4ee-a1c377880e2e          
+## Why class2 and class6: http://tid.uio.no/plasma/oath/   
 
 This project implements on the Pytorch framework.
 
