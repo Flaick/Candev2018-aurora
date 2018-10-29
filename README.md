@@ -19,7 +19,7 @@ Structure of training data:
 +-- class2          
 >   +--candev_data_2_0         
 >>    +-- data1        
->>     +-- data2       
+>>    +-- data2       
 >   +--candev_data_2_1        
 
              
