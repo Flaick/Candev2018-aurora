@@ -48,3 +48,6 @@ Structure of training data:
 ![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_4/00570.png) 
 #### candev_data_6_5:        
 ![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_5/00207.png) 
+
+
+## After classifying the images we will combine the value of class2 and class6 to calculate the type of the picture!    
