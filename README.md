@@ -33,18 +33,18 @@ Structure of training data:
 #### candev_data_2_0:        
 ![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class2/candev_data_2_0/00001.png)       
 #### candev_data_2_1:        
-![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class2/candev_data_2_0/00387.png)        
+![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class2/candev_data_2_1/00387.png)        
 
 ### class6:           
 #### candev_data_6_0:    
 ![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_0/00026.png) 
 #### candev_data_6_1:    
-![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_0/00006.png) 
+![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_1/00006.png) 
 #### candev_data_6_2:    
-![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_0/00454.png) 
+![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_2/00454.png) 
 #### candev_data_6_3:     
-![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_0/00751.png) 
+![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_3/00751.png) 
 #### candev_data_6_4:    
-![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_0/00570.png) 
+![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_4/00570.png) 
 #### candev_data_6_5:        
-![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_0/00207.png) 
+![Alt text](https://github.com/Flaick/Candev2018-aurora/blob/master/class6/candev_data_6_5/00207.png) 
